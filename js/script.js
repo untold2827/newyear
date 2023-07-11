@@ -61,7 +61,7 @@ function fireWork() {
    });
    headingOne.innerHTML = "🎈🎉 Happy New Year ! 🥳";
    headingTwo.innerHTML =
-      "Let us remember the good times along with the bad And pray for sunnier days in 2021 ...";
+      "Have a GREAT YEAR ahead!";
    cap.style.display = "block";
    cap2.style.display = "block";
 }
